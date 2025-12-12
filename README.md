@@ -1,3 +1,5 @@
 # 2048
 
-This is a creation of the game '2048' using Python and Tkinter. I don't think anything else needs to be said.
+I did not create this. Below is the website where the tutorial showing how to create the game can be found. This repository simply contains the finished product.
+
+https://iq.opengenus.org/2048-in-python/
